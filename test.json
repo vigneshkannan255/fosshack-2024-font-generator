@@ -1,0 +1,39 @@
+{ "props":
+  { "ascent": 96
+  , "descent": 32
+  , "em": 128
+  , "encoding": "UnicodeFull"
+  , "lang": "English (US)"
+  , "family": "Tamil Font"
+  , "style": "Regular"
+  , "familyname": "Tamil"
+  , "fontname": "Tamil-Regular"
+  , "fullname": "Tamil Regular"
+  }
+, "glyphs":
+  { "0x0B85": { "src": "0x0B85.svg" },
+    "0x0B86": { "src": "0x0B86.svg" },
+    "0x0B87": { "src": "0x0B87.svg" },
+    "0x0B88": { "src": "0x0B88.svg" },
+    "0x0B89": { "src": "0x0B89.svg" },
+    "0x0B8A": { "src": "0x0B8A.svg" },
+    "0x0B8E": { "src": "0x0B8E.svg" },
+    "0x0B8F": { "src": "0x0B8F.svg" },
+    "0x0B90": { "src": "0x0B90.svg" },
+    "0x0B92": { "src": "0x0B92.svg" },
+    "0x0B93": { "src": "0x0B93.svg" },
+    "0x0B94": { "src": "0x0B94.svg" }
+  }
+, "sfnt_names":
+  [ ["English (US)", "Copyright", "Copyright (c) 2024 by VGLUG"]
+  , ["English (US)", "Family", "Tamil"]
+  , ["English (US)", "SubFamily", "Regular"]
+  , ["English (US)", "UniqueID", "Tamil 2024-07-27"]
+  , ["English (US)", "Fullname", "Tamil Regular"]
+  , ["English (US)", "Version", "Version 001.000"]
+  , ["English (US)", "PostScriptName", "Tamil-Regular"]
+  ]
+, "input": "svg"
+, "output": [ "tamilfonts.ttf"]
+, "# vim: set et sw=2 ts=2 sts=2:": false
+}
